@@ -1,0 +1,45 @@
+定义：
+缠中说禅趋势力度：前一“吻”的结束与后一“吻”开始由短线均线与长期均线相交所形成的面积。在前后两个同向趋势中,当缠中说禅趋势力度比上一次缠中说禅趋势力度要弱，就形成“背驰”。
+缠中说禅趋势平均力度：当下与前一“吻”的结束时短线均线与长期均线形成的面积除以时间。因为这个概念是即时的，马上就可以判断当下的缠中说禅趋势平均力度与前一次缠中说禅趋势平均力度的强弱对比，一旦这次比上次弱，就可以判断“背驰”即将形成。
+
+本公式只适用于大智慧新一代程序，公式如下：
+=================================================================================
+{公式名称：缠背驰
+参数：p1 短期均线周期
+          p2 长期均线周期}
+var1:=MA(C,p1)-MA(C,P2);
+if((var1>=0),var1,0),stick,colorred;
+if((var1<0),var1,0),stick,colorgreen;
+正:if((var1>=0),var1,0),colorred;
+负:if((var1<0),var1,0),colorgreen;
+zheng:=0;
+fu:=0;
+var2:=0;
+i:=0;
+IF (var1>0) THEN
+BEGIN
+var2:=var1;
+  WHILE (var2>0) DO
+  BEGIN
+    zheng:=zheng+var2;
+   i:=i+1;
+    var2:=ref(var1,i);
+    if (i>20) THEN BREAK;
+  END
+END
+ELSE
+BEGIN
+  var2:=var1;
+  WHILE (var2<0) DO
+  BEGIN
+   fu:=fu+var2;
+  i:=i+1;
+   var2:=ref(var1,i);
+   if (i>20) THEN BREAK;
+  END
+END
+{涨势面积和:zheng;}
+涨势平均力度:zheng/i,colorYELLOW;
+{跌势面积和:fu;}
+跌势平均力度:fu/i,colorWHITE;
+中轴:0;
