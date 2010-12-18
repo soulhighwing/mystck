@@ -1,0 +1,65 @@
+END-USER LICENSE AGREEMENT FOR LAVALYS EVEREST SOFTWARE
+
+IMPORTANT, READ CAREFULLY: This End-User License Agreement is a legal agreement between you (either an individual or a single entity) and Lavalys for the software product identified above, which includes computer software and may include associated media, printed materials, and "online" or electronic documentation ("SOFTWARE PRODUCT"). By installing, copying, or otherwise using the SOFTWARE PRODUCT, you agree to be bound by the terms of this End-User License Agreement. If you do not agree to the terms of this End-User License Agreement, do not download, install, store, copy or use any part of the SOFTWARE PRODUCT.
+
+LAVALYS EVEREST SOFTWARE PRODUCT LICENSE
+
+The SOFTWARE PRODUCT is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties. The SOFTWARE PRODUCT is licensed, not sold.
+
+1. GRANT OF LICENSE. This End-User License Agreement grants you the following rights:
+
+* Software License. If you have bought a copy of the SOFTWARE PRODUCT from Lavalys, Lavalys grants you the right to make copies of the SOFTWARE PRODUCT for backup and archival purposes.  If you have bought a copy of the SOFTWARE PRODUCT from Lavalys, you may install and use as many copies of the SOFTWARE PRODUCT as you need for your own, personal use.
+
+* Software License. If you have downloaded a copy of the SOFTWARE PRODUCT, Lavalys grants you a non-renewable trial period of 30 days, during which you have the right to make copies of the SOFTWARE PRODUCT for backup and archival purposes.  During this trial period, you may install and use as many copies of the SOFTWARE PRODUCT as you need for your own, personal use.  After this trial period, you must remove and destroy all copies of the SOFTWARE PRODUCT you have made.
+
+* Software License. Apart from the two cases described above, you do not have a licensed copy and thus are not allowed to download, install, store, copy or use any part of the SOFTWARE PRODUCT.
+
+* Reproduction and Distribution. You may NOT reproduce and distribute any copies of the SOFTWARE PRODUCT without the prior permission of Lavalys.  If such permission is granted, then each copy shall be a true and complete copy, including all copyright and trademark notices, and shall be accompanied by a copy of this End-User License Agreement.
+
+2. DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS.
+
+* Maintenance of Copyright Notices. You must not remove or alter any copyright notices on all copies of the SOFTWARE PRODUCT.
+
+* Limitations on Reverse Engineering, Decompilation, and Disassembly. You may not reverse engineer, decompile, or disassemble the SOFTWARE PRODUCT, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation.
+
+* Separation of Components. The SOFTWARE PRODUCT is licensed as a single product and may not be use on more than one PC.
+
+* Rental. You may not rent, lease, or lend the SOFTWARE PRODUCT.
+
+* Performance or Benchmark Testing.  You may not disclose the results of any benchmark test of the SOFTWARE PRODUCT to any third party without Lavalys’ prior written approval. 
+
+* Support Services. Lavalys may provide you with support services related to the SOFTWARE PRODUCT ("Support Services"). Use of Support Services is governed by the policies and programs described in the user manual, in "online" documentation, and/or in other materials provided by Lavalys. Any supplemental software code provided to you as part of the Support Services shall be considered part of the SOFTWARE PRODUCT and subject to the terms and conditions of this End-User License Agreement. With respect to technical information you provide to Lavalys as part of the Support Services, Lavalys may use such information for its business purposes, including for product support and development. Lavalys will not utilize such technical information in a form that personally identifies you.
+
+* Software Transfer. You may permanently transfer all of your rights under this End-User License Agreement (i) provided you retain no copies; (ii) you transfer all of the SOFTWARE PRODUCT (including all component parts, the media and printed materials), and (iii) the recipient agrees to the terms of this End-User License Agreement.
+
+* Termination. Without prejudice to any other rights, Lavalys may terminate this End-User License Agreement if you fail to comply with the terms and conditions of this End-User License Agreement. In such event, you must destroy all copies of the SOFTWARE PRODUCT and all of its component parts.
+
+3. COPYRIGHT. All title, including but not limited to copyrights, in and to the SOFTWARE PRODUCT and any copies thereof are owned by Lavalys or its suppliers. All title and intellectual property rights in and to the content which may be accessed through use of the SOFTWARE PRODUCT is the property of the respective content owner and may be protected by applicable copyright or other intellectual property laws and treaties. This End-User License Agreement grants you no rights to use such content.  All rights not expressly granted are reserved by Lavalys.
+
+4. USA GOVERNMENT RESTRICTED RIGHTS. The SOFTWARE PRODUCT is provided with RESTRICTED RIGHTS. Use, duplication, or disclosure by the Government is subject to restrictions as set forth in subparagraph (c)(1)(ii) of the Rights in Technical Data and Computer Software clause at DFARS 252.227-7013 or subparagraphs (c)(1) and (2) of the Commercial Computer Software Restricted Rights at 48 CFR 52.227-19, as applicable. Manufacturer is Lavalys Inc., 1555 Boulevard de l’Avenir, Suite 306, Laval, Québec, Canada H7M 5Y7.
+
+5. EXPORT RESTRICTIONS. You agree that you will not export or re-export the SOFTWARE PRODUCT to any country, person, entity or end user subject to USA export restrictions. Restricted countries currently include, but are not necessarily limited to Cuba, Iran, Iraq, North Korea, Sudan, and Syria. You warrant and represent that neither the USA Bureau of Export Administration nor any other federal agency has suspended, revoked or denied your export privileges.
+
+6. NO WARRANTIES. Lavalys expressly disclaims any warranty for the SOFTWARE PRODUCT. THE SOFTWARE PRODUCT AND ANY RELATED DOCUMENTATION IS PROVIDED "AS IS" WITHOUT WARRANTY OR CONDITION OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NONINFRINGEMENT. THE ENTIRE RISK ARISING OUT OF USE OR PERFORMANCE OF THE SOFTWARE PRODUCT REMAINS WITH YOU.
+
+7. LIMITATION OF LIABILITY. In no event shall Lavalys or its suppliers be liable for any damages whatsoever (including, without limitation, damages for loss of business profits, business interruption, loss of business information, or any other pecuniary loss) arising out of the use of or inability to use the SOFTWARE PRODUCT, even if Lavalys has been advised of the possibility of such damages. Because some states and jurisdictions do not allow the exclusion or limitation of liability for consequential or incidental damages, the above limitation may not apply to you.
+
+MISCELLANEOUS
+
+If you acquired this product in Canada, this End-User License Agreement is governed by the laws of the Province of Québec, Canada. Each of the parties hereto irrevocably attorns to the jurisdiction of the courts of the Province of Québec and further agrees to commence any litigation which may arise hereunder in the courts located in the Judicial District of Montréal, Province of Québec, Canada.
+
+If this product was acquired outside Canada, then local law may apply.
+
+Should you have any questions concerning this End-User License Agreement, or if you desire to contact Lavalys for any reason, please contact Lavalys at info@lavalys.com or write to Lavalys Inc., 1555 Boulevard de l’Avenir, Suite 306, Laval, Québec, Canada H7M 5Y7.
+
+Si vous avez acquis le logiciel au Canada, la garantie limitée suivante vous concerne : GARANTIE LIMITÉE
+
+EXCLUSION DE GARANTIES. Lavalys renonce entièrement à toute garantie pour le LOGICIEL. Le LOGICIEL et toute autre documentation s'y rapportant sont fournis « comme tels » sans aucune garantie quelle qu'elle soit, expresse ou implicite, y compris, mais ne se limitant pas aux garanties implicites de la qualité marchande, d’adaptation à un usage particulier ou d’absence de violation des droits des tiers. Le risque total découlant de l'utilisation ou de la performance du LOGICIEL est entre vos mains.
+
+ABSENCE DE RESPONSABILITÉ POUR LES DOMMAGES. Lavalys et ses fournisseurs ne pourront être tenus responsables en aucune circonstance de tout dommage quel qu'il soit (y compris mais non de façon limitative les dommages directs ou indirects causés par la perte de bénéfices commerciaux, l'interruption des affaires, la perte d'information commerciale ou toute autre perte pécuniaire) résultant de l'utilisation ou de l'impossibilité d'utilisation de ce produit, et ce, même si Lavalys a été avisé de l'éventualité de tels dommages. Parce que certains états/juridictions ne permettent pas l'exclusion ou la limitation de responsabilité relative aux dommages indirects ou consécutifs, la limitation ci-dessus peut ne pas s'appliquer à votre égard.
+
+La présente Convention est régie par les lois de la province de Québec, Canada. Chacune des parties à la présente reconnaît irrévocablement la compétence des tribunaux de la province du Québec et consent à instituer tout litige qui pourrait découler de la présente auprès des tribunaux situés dans le district judiciaire de Montréal, province du Québec.
+
+Au cas où vous auriez des questions concernant cette licence ou que vous désiriez vous mettre en rapport avec Lavalys pour quelque raison que ce soit, veuillez nous contacter à info@lavalys.com ou écrire à Lavalys Inc., 1555 Boulevard de l’Avenir, Suite 306, Laval, Québec, Canada H7M 5Y7.
+
+Revised Date : October 2006

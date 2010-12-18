@@ -1,0 +1,145 @@
+<HTML>
+<HEAD>
+<TITLE> HD Tune Help</TITLE>
+</HEAD>
+<BODY>
+
+<FONT face="arial" size="-1">
+
+<FONT size="+1"><B>HD Tune Help</B></FONT><BR><BR>
+
+<TABLE width="100%" bgcolor="#0040B0" cellpadding=0 cellspacing=0 border=0>
+<TR><TD align="left"><FONT face="arial" color="#FFFFFF" size="-1"><B>&nbsp;&nbsp;&nbsp;1. Introduction</B></FONT></TD></TR>
+</TABLE><BR>
+
+HD Tune is a Hard Disk utility which has the following functions:<BR>
+<UL>
+<LI>Benchmark: measures the performance</LI>
+<LI>Info: shows detailed information</LI>
+<LI>Health: checks the health status by using SMART</LI>
+<LI>Error Scan: scans the surface for errors</LI>
+<LI>Temperature display</LI>
+</UL>
+
+HD Tune may also work with other storage devices such as memory cards, USB sticks, iPods, etc.<BR><BR>
+
+<TABLE width="100%" bgcolor="#0040B0" cellpadding=0 cellspacing=0 border=0>
+<TR><TD align="left"><FONT face="arial" color="#FFFFFF" size="-1"><B>&nbsp;&nbsp;&nbsp;2. System Requirements</B></FONT></TD></TR>
+</TABLE><BR>
+
+- Windows 2000, Windows XP, Windows XP 64-bit, Windows 2003 Server (must be logged on as an administrator)<BR>
+- 10 MB of free disk space<BR>
+- a SCSI, SATA or IDE hard disk<BR><BR>
+
+<TABLE width="100%" bgcolor="#0040B0" cellpadding=0 cellspacing=0 border=0>
+<TR><TD align="left"><FONT face="arial" color="#FFFFFF" size="-1"><B>&nbsp;&nbsp;&nbsp;3. Usage</B></FONT></TD></TR>
+</TABLE><BR>
+
+Using HD Tune is very easy.<BR>
+First select the hard disk, then choose a function.<BR><BR>
+
+<FONT size=+1>Benchmark</FONT><BR><BR>
+<IMG src="HDTune_Benchmark.gif"><BR><BR>
+
+After the Start button is pressed HD Tune will perform several tests to measure the performance of the hard disk.<BR><BR>
+
+<U>Transfer Rate</U><BR>
+The read speed is measured in megabytes per second (MB/sec). The minimum, maximum and average speed are displayed on the right. The blue line on the graph shows the read performance across the disk.<BR>
+*note*: One megabyte equals to 1048576 bytes (=1024 kilobytes). Some benchmarks define one megabyte as 1000000 bytes which results in higher scores.<BR><BR>
+
+In the options screen (press the <IMG src="HDTune_Options.gif"> button) you can select the test duration.<BR><BR>
+<IMG src="HDTune_Options_Benchmark.gif"><BR><BR>
+
+<U>Access Time</U><BR>
+The average access time is measured and displayed in milli-seconds (ms). The measured access times are shown on the graph as the yellow dots.<BR><BR>
+
+<U>Burst Rate</U><BR>
+The burst rate is the highest speed (in megabytes per second) at which data can be transferred from the drive interface (IDE or SCSI for example) to the operating system.<BR><BR>
+
+<U>CPU Usage</U><BR>
+The CPU usage shows how much CPU time (in %) the system needs to read data from the hard disk.<BR><BR>
+
+<FONT size=+1>Information</FONT><BR><BR>
+<IMG src="HDTune_Info.gif"><BR><BR>
+
+The first part of the screen shows detailed information about each partition on the hard disk.<BR><BR>
+The second part shows which features are supported.<BR><BR>
+The third part shows basic information.<BR>
+- Firmware version<BR>
+- Serial number<BR>
+- Capacity<BR>
+  <I>(The capacity between braces shows the capacity as it is marketed by the manufacturer; defining 1 KB as 1000 bytes)</I><BR>
+- Buffer size<BR>
+- Interface standard<BR>
+- Maximum transfer mode and active transfer mode<BR><BR>
+
+<FONT size=+1>Health</FONT><BR><BR>
+<IMG src="HDTune_Health.gif"><BR><BR>
+
+This function uses S.M.A.R.T. (Self-Monitoring Analysis and Reporting Technology) to get information about the health of the hard disk.<BR>
+The table shows the following parameters:<BR>
+- ID: parameter which is being measured<BR>
+- Current: current value<BR>
+- Worst: the worst value which has been recorded since the hard disk was first used<BR>
+- Threshold: the value of any of the parameters should never get below the threshold.<BR>
+- Data: shows the usable data which belongs to the ID.<BR>
+- Status: status of the parameter (OK or failed).<BR><BR>
+
+<U>Power on time</U><BR>
+The power on time is usually indicated in hours, but some manufacturers show this time in minutes or even seconds.<BR><BR>
+
+<FONT size=+1>Error Scan</FONT><BR><BR>
+<IMG src="HDTune_ErrorScan.gif"><BR><BR>
+By pressing the Start button the whole surface of the disk will be scanned for defects.<BR>
+Defects will show up as red blocks.<BR><BR>
+
+<FONT size=+1>Temperature</FONT><BR><BR>
+The temperature is shown on the main screen and on the taskbar.<BR>
+In the options screen you can select the temperature units (Celsius or Fahrenheit) and whether the temperature should be shown in the taskbar.<BR><BR>
+<IMG src="HDTune_Options_Temperature.gif"><BR><BR>
+You can also specify the critical temperature value. If this value is reached the font color changes and a warning message pops up.<BR><BR>
+<IMG src="HDTune_Taskbar.gif"><BR><BR>
+For good operation the temperature should stay below 50 °C. The temperature should never exceed 60 °C.<BR><BR>
+*note*: not all drives can report the temperature.<BR><BR>
+
+The General page in the options window has a few options which are useful to monitor hard disk temperature with HD Tune.<BR><BR>
+<IMG src="HDTune_Options_General.gif"><BR><BR>
+Start minimized: HD Tune will be minimized to the taskbar. To open HD Tune, doubleclick on the temperature display or right-click to bring up a menu.<BR>
+*note*: the 'Show temperature in taskbar' option must be enabled.<BR>
+To minimize HD Tune to the taskbar when HD Tune is open you can press the <IMG src="HDTune_Minimize.gif"> button on the title bar.<BR><BR>
+
+
+Run at startup: starts HD Tune each time Windows is started.<BR><BR>
+
+
+<TABLE width="100%" bgcolor="#0040B0" cellpadding=0 cellspacing=0 border=0>
+<TR><TD align="left"><FONT face="arial" color="#FFFFFF" size="-1"><B>&nbsp;&nbsp;&nbsp;4. Saving the results</B></FONT></TD></TR>
+</TABLE><BR>
+
+You can save the output to a file or copy the output to the clipboard.<BR><BR>
+
+<IMG src="HDTune_SaveScreen.gif"> Save screenshot. The screenshot will be saved in the PNG format to a folder of your choice.<BR>
+*note* under Windows 2000 you have to download and install the GDI+ library file which can be found on the Microsoft download site (look for gdiplus.dll).<BR><BR>
+
+<IMG src="HDTune_CopyText.gif"> Copy information to clipboard as text.<BR>
+You can use a text editor to paste the information into a document.<BR><BR>
+
+<IMG src="HDTune_CopyScreen.gif"> Copy screenshot to clipboard.<BR>
+You can paste a screenshot into a picture editor.<BR><BR>
+
+<TABLE width="100%" bgcolor="#0040B0" cellpadding=0 cellspacing=0 border=0>
+<TR><TD align="left"><FONT face="arial" color="#FFFFFF" size="-1"><B>&nbsp;&nbsp;&nbsp;5. Additional information</B></FONT></TD></TR>
+</TABLE><BR>
+
+Please visit the official HD Tune website at <A href="http://www.hdtune.com">http://www.hdtune.com</A> for more information, test results and contact information.<BR><BR>
+
+<HR>
+<CENTER>
+<I>Copyright (C) 2005 by EFD Software</I>
+</CENTER>
+
+</FONT>
+
+
+</BODY>
+</HTML>
