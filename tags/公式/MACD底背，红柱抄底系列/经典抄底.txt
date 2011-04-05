@@ -1,0 +1,3 @@
+{¾­µä³­µ×}
+CS:=(CLOSE-LLV(LOW,8))/(HHV(HIGH,8)-LLV(LOW,8))*100;
+¾­µä³­µ×:IF((EMA(CS,2))*2>REF((EMA(CS,2))*2,1) AND REF((EMA(CS,2))*2,1)<REF((EMA(CS,2))*2,2) AND (EMA(CS,2))*2<26,50,0);
