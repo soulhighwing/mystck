@@ -1,0 +1,8 @@
+{信号出现后配KDJ使用,J值必须在0值以下才能买,这就是前提。如能在配上MACD的底背离那是更准了}
+{红柱抄底}
+BIAS1:=(C-MA(C,6))/MA(C,6)*100;
+BIAS2:=(C-MA(C,12))/MA(C,12)*100;
+BIAS3:=(C-MA(C,24))/MA(C,24)*100;
+BIAS:=(BIAS1+2*BIAS2+3*BIAS3)/6;
+乖离:=MA(BIAS,3);
+STICKLINE(CROSS(BIAS,乖离)  AND 乖离<-9.5,60,0,2,0),COLORRED;

@@ -1,0 +1,10 @@
+{出局减仓}
+VAR2:=LLV(LOW,10); 
+VAR3:=HHV(HIGH,25); 
+减仓线: 3.2 ; 
+卖出线: 3.5; 
+动力线: EMA((CLOSE-VAR2)/(VAR3-VAR2)*4,4);  
+DRAWTEXT(CROSS(动力线,减仓线),2.8,'减仓 '), ,; 
+DRAWTEXT(CROSS(动力线,卖出线),3.5,'出局 '), , ; 
+DRAWICON(CROSS(动力线,减仓线),3.4,2); 
+DRAWICON(CROSS(动力线,卖出线),3.9,2); 
